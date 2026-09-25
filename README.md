@@ -77,15 +77,7 @@ A responsive book management web application that allows users to explore books,
 
 [Live Demo](https://book-vibe-b1db.vercel.app/) | [Source Code](https://github.com/rezasdsju/book-vibe.git)
 
-### 4. Nature's Platter
-
-A responsive food website showcasing fresh and healthy food items with a clean and user-friendly interface.
-
-**Tech:** HTML, Tailwind CSS, Responsive Design
-
-[Live Demo](https://rezasdsju.github.io/Nature-s-Platter/) | [Source Code](https://github.com/rezasdsju/Nature-s-Platter.git)
-
-### 5. DevStack
+### 4. DevStack
 
 A developer-focused web application built with React and TypeScript for exploring development resources and technologies.
 
@@ -93,45 +85,13 @@ A developer-focused web application built with React and TypeScript for explorin
 
 [Live Demo](https://devstack-tawny.vercel.app/) | [Source Code](https://github.com/rezasdsju/devstack.git)
 
-### 6. BPL Dream Eleven
+### 5. BPL Dream Eleven
 
 A cricket team management web application where users can explore players and build their own dream team.
 
 **Tech:** React, TypeScript, Tailwind CSS
 
 [Live Demo](https://bpl-dream-eleven-eight.vercel.app/) | [Source Code](https://github.com/rezasdsju/BPL-Dream-Eleven.git)
-
-### 7. Country Explorer
-
-A country exploration web application where users can explore country information, view details, and mark countries as visited.
-
-**Tech:** React, TypeScript, Tailwind CSS
-
-[Live Demo](https://lighthearted-chimera-34f191.netlify.app/) | [Source Code](https://github.com/rezasdsju/Country-Explorer-React-TS-.git)
-
-### 8. Grocery Store
-
-A grocery product search application where users can search for products and filter items based on their stock availability.
-
-**Tech:** React, TypeScript, Tailwind CSS
-
-[Live Demo](https://search-app-self.vercel.app/) | [Source Code](https://github.com/rezasdsju/product-search-react-ts.git)
-
-### 9. Tic-Tac-Toe
-
-A classic Tic-Tac-Toe game built with React and TypeScript, allowing two players to play the game and displaying the winner when the game ends.
-
-**Tech:** React, TypeScript, Tailwind CSS
-
-[Live Demo](https://tic-tac-toe-game-eta-beige.vercel.app/) | [Source Code](https://github.com/rezasdsju/tic-tac-toe-game.git)
-
-### 10. Developer Portfolio
-
-A personal developer portfolio website showcasing my skills, projects, and experience.
-
-**Tech:** React, TypeScript, Tailwind CSS
-
-[Live Portfolio](https://developer-portfolio-1e1b.vercel.app/) | [Source Code](https://github.com/rezasdsju/developer-portfolio.git)
 
 ---
 
