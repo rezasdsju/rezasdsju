@@ -67,14 +67,7 @@ A full-stack online grocery platform with a React frontend powered by a Django R
 
 ---
 
-## Get in Touch
 
-- 🌐 Portfolio: [rezaul-karim-rifat-portfolio.vercel.app](https://rezaul-karim-rifat-portfolio.vercel.app/)
-- 💻 GitHub: [@rezasdsju](https://github.com/rezasdsju)
-
-<p align="center">
-  <i>Open to feedback, collaboration and new opportunities.</i>
-</p>
 
 
 <!--- statistics --->
@@ -87,4 +80,15 @@ A full-stack online grocery platform with a React frontend powered by a Django R
 ### Streak Stats:
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=rezasdsju&theme=radical" />
+</p>
+
+
+
+## Get in Touch
+
+- 🌐 Portfolio: [rezaul-karim-rifat-portfolio.vercel.app](https://rezaul-karim-rifat-portfolio.vercel.app/)
+- 💻 GitHub: [@rezasdsju](https://github.com/rezasdsju)
+
+<p align="center">
+  <i>Open to feedback, collaboration and new opportunities.</i>
 </p>
