@@ -69,7 +69,7 @@ A full-stack online grocery platform with a React frontend powered by a Django R
 
 ## Get in Touch
 
-- 🌐 Portfolio: [developer-portfolio-1e1b.vercel.app](https://developer-portfolio-1e1b.vercel.app/)
+- 🌐 Portfolio: [developer-portfolio-1e1b.vercel.app](https://rezaul-karim-rifat-portfolio.vercel.app/)
 - 💻 GitHub: [@rezasdsju](https://github.com/rezasdsju)
 
 <p align="center">
