@@ -51,7 +51,7 @@ A full-stack online grocery platform with a React frontend powered by a Django R
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Organic Solution** | E-commerce store for organic products with search, cart, checkout, order and payment tracking, and an admin panel | Django REST Framework, PostgreSQL, React, Bootstrap | [Demo](https://organic-solution-pqrs.vercel.app/) · [Backend](https://github.com/rezasdsju/emarket/tree/main/backend) · [Frontend](https://github.com/rezasdsju/organic-solution-frontend) |
+| **Organic Solution** | E-commerce store for organic products with search, cart, checkout, order and payment tracking, and an admin panel | Django REST Framework, PostgreSQL, React, Bootstrap | [Demo](https://organic-solution-pqrs.vercel.app/) · [Backend](https://github.com/rezasdsju/emarket) · [Frontend](https://github.com/rezasdsju/organic-solution-frontend) |
 | **Bazar-Dor** | Price tracking app for essential products | Next.js, Better Auth, MongoDB | [Demo](https://bazar-dor-two.vercel.app/) · [Code](https://github.com/rezasdsju/bazar-dor) |
 | **Django Blog App** | Blog platform with posts, likes, dislikes and comments | Django, Python, Bootstrap | [Demo](https://blog.satbeta.top/) · [Code](https://github.com/rezasdsju/blog_project_django) |
 | **Fit-Log** | Workout tracker to explore workouts, create plans and save favorites | Next.js, TypeScript, Tailwind CSS | [Demo](https://fit-log-weld-xi.vercel.app/) · [Code](https://github.com/rezasdsju/fit-log) |
