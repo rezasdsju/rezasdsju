@@ -71,7 +71,7 @@ A full-stack online grocery platform with a React frontend powered by a Django R
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats-reza-babd.vercel.app/api?username=rezasdsju&theme=radical&hide_border=true&include_all_commits=true&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats-reza-babd.vercel.app/api/top-langs/?username=rezasdsju&theme=radical&hide_border=true&layout=compact" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=rezasdsju&theme=radical&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezasdsju&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
 | ------------- | ------------- |
 
 ### Streak Stats:
