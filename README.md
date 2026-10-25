@@ -67,12 +67,6 @@ A full-stack online grocery platform with a React frontend powered by a Django R
 
 ---
 
-
-
-
-<!--- statistics --->
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
-
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
@@ -85,7 +79,7 @@ A full-stack online grocery platform with a React frontend powered by a Django R
   <img align="center" src="https://streak-stats.demolab.com/?user=rezasdsju&theme=radical" />
 </p>
 
-
+---
 
 ## Get in Touch
 
