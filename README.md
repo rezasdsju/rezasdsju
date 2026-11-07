@@ -41,13 +41,13 @@ I'm a full-stack developer who enjoys turning ideas into working products. I bui
 
 ## Featured Project
 
-### 🛒 Bazar-Sodai: Online Grocery E-Commerce
+### 🐝 HelpHive: Volunteer & Social Impact Platform
 
-A full-stack online grocery platform with a React frontend powered by a Django REST Framework backend.
+A full-stack platform where people create, browse and join local social service events. Authenticated users can manage their own events, and the backend verifies every request with JWT.
 
-**Stack:** React · Django REST Framework · Python · JavaScript
+**Stack:** Next.js · TypeScript · Express.js · MongoDB · Better Auth · JWT
 
-[Live Demo](https://bazar-sodai-frontend-ten.vercel.app/) · [Source Code](https://github.com/rezasdsju/ecommerce-project-drf-react)
+[Live Demo](https://helphive-community-indol.vercel.app/) · [Frontend Code](https://github.com/rezasdsju/helphive-client) · [Backend Code](https://github.com/rezasdsju/helphive-server)
 
 ---
 
@@ -56,7 +56,7 @@ A full-stack online grocery platform with a React frontend powered by a Django R
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | **HireLoop** | Job portal where users search jobs, recruiters submit job posts, and admins review, approve and manage all listings | Next.js, TypeScript, Tailwind CSS, shadcn/ui, Better Auth, MongoDB | [Demo](https://hireloop-jobs-board.vercel.app/) · [Frontend](https://github.com/rezasdsju/hireloop-client) |
-| **HelpHive** | Volunteer platform where people create, browse and join local social service events | Next.js, TypeScript, Express.js, MongoDB, Better Auth, JWT | [Demo](https://helphive-community-indol.vercel.app/) · [Frontend](https://github.com/rezasdsju/helphive-client) · [Backend](https://github.com/rezasdsju/helphive-server) |
+| **Bazar-Sodai** | Online grocery platform with a React frontend powered by a Django REST Framework backend | React, Django REST Framework, Python, JavaScript | [Demo](https://bazar-sodai-frontend-ten.vercel.app/) · [Code](https://github.com/rezasdsju/ecommerce-project-drf-react) |
 | **Organic Solution** | E-commerce store for organic products with search, cart, checkout, order and payment tracking, and an admin panel | Django REST Framework, PostgreSQL, React, Bootstrap | [Demo](https://organic-solution-pqrs.vercel.app/) · [Backend](https://github.com/rezasdsju/emarket) · [Frontend](https://github.com/rezasdsju/organic-solution-frontend) |
 | **Bazar-Dor** | Price tracking app for essential products | Next.js, Better Auth, MongoDB | [Demo](https://bazar-dor-two.vercel.app/) · [Code](https://github.com/rezasdsju/bazar-dor) |
 | **Django Blog App** | Blog platform with posts, likes, dislikes and comments | Django, Python, Bootstrap | [Demo](https://blog.satbeta.top/) · [Code](https://github.com/rezasdsju/blog_project_django) |
@@ -80,7 +80,6 @@ A full-stack online grocery platform with a React frontend powered by a Django R
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=rezasdsju&theme=radical" />
 </p>
-
 
 ---
 
