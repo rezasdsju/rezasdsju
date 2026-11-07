@@ -18,6 +18,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rezasdsju&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ## About
@@ -29,7 +33,7 @@ I'm a full-stack developer who enjoys turning ideas into working products. I bui
 | | |
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
 | **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
 
@@ -51,6 +55,8 @@ A full-stack online grocery platform with a React frontend powered by a Django R
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
+| **HireLoop** | Job portal where users search jobs, recruiters submit job posts, and admins review, approve and manage all listings | Next.js, TypeScript, Tailwind CSS, shadcn/ui, Better Auth, MongoDB | [Demo](https://hireloop-jobs-board.vercel.app/) · [Frontend](https://github.com/rezasdsju/hireloop-client) |
+| **HelpHive** | Volunteer platform where people create, browse and join local social service events | Next.js, TypeScript, Express.js, MongoDB, Better Auth, JWT | [Demo](https://helphive-community-indol.vercel.app/) · [Frontend](https://github.com/rezasdsju/helphive-client) · [Backend](https://github.com/rezasdsju/helphive-server) |
 | **Organic Solution** | E-commerce store for organic products with search, cart, checkout, order and payment tracking, and an admin panel | Django REST Framework, PostgreSQL, React, Bootstrap | [Demo](https://organic-solution-pqrs.vercel.app/) · [Backend](https://github.com/rezasdsju/emarket) · [Frontend](https://github.com/rezasdsju/organic-solution-frontend) |
 | **Bazar-Dor** | Price tracking app for essential products | Next.js, Better Auth, MongoDB | [Demo](https://bazar-dor-two.vercel.app/) · [Code](https://github.com/rezasdsju/bazar-dor) |
 | **Django Blog App** | Blog platform with posts, likes, dislikes and comments | Django, Python, Bootstrap | [Demo](https://blog.satbeta.top/) · [Code](https://github.com/rezasdsju/blog_project_django) |
@@ -70,18 +76,19 @@ A full-stack online grocery platform with a React frontend powered by a Django R
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS:</b>
 
-### Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rezasdsju&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-<!--### Top Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezasdsju&theme=radical&hide_border=true&layout=compact" />
-</p> -->
-
 ### Streak Stats:
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=rezasdsju&theme=radical" />
+</p>
+
+### Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezasdsju&theme=react-dark&hide_border=true" />
+</p>
+
+### Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rezasdsju&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
