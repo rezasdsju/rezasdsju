@@ -81,15 +81,6 @@ A full-stack online grocery platform with a React frontend powered by a Django R
   <img align="center" src="https://streak-stats.demolab.com/?user=rezasdsju&theme=radical" />
 </p>
 
-### Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezasdsju&theme=react-dark&hide_border=true" />
-</p>
-
-### Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rezasdsju&theme=radical&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
