@@ -70,6 +70,10 @@ A full-stack online grocery platform with a React frontend powered by a Django R
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS:</b>
 
+### Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rezasdsju&theme=radical&no-frame=true&row=1&column=7" />
+</p>
 <!--### Top Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezasdsju&theme=radical&hide_border=true&layout=compact" />
