@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Web Developer</b><br>
-  Python · Django · React · Next.js
+  React · Next.js ·Python · Django 
 </p>
 
 <p align="center">
