@@ -73,9 +73,9 @@ A full-stack rental marketplace where customers discover, favorite and book equi
 
 ## Currently Working On
 
-- Securing APIs with authentication and permissions
-- Writing tests for backend and frontend code
-- Improving performance and deployment workflows
+- Building multi-role web applications with **Next.js, TypeScript, and Node.js**
+- Designing clean REST APIs and role-based access flows
+- Shipping production-ready features and refining UI/UX workflows
 
 ---
 
