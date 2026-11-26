@@ -26,7 +26,7 @@
 
 ## About
 
-I'm a full-stack developer who enjoys turning ideas into working products. I build backends with **Python and Django**, and frontends with **React and Next.js**. Right now I'm focused on **REST API design** and writing cleaner, more maintainable code.
+I'm a full-stack developer who enjoys turning ideas into end-to-end, working products. I build backends with **Node.js and Express.js**, and craft responsive frontends with **React and Next.js** using **TypeScript** and **MongoDB / PostgreSQL**, alongside **Python, Django, and Django REST Framework**. Right now I'm focused on **REST API architecture**, clean maintainable code, and shipping practical real-world applications.
 
 ## Tech Stack
 
